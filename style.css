@@ -27,7 +27,7 @@ body {
 .picture {
     height: 300px;
     width: 300px;
-    background-image: url("./img/image-product-mobile.jpg");
+    background-image: url("./image-product-mobile.jpg");
     background-repeat: no-repeat;
     background-position: cover;
     background-size: 300px;
